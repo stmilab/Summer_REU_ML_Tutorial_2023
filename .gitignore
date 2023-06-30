@@ -153,3 +153,4 @@ cython_debug/
 
 */desktop.ini
 desktop.ini
+*.ini
